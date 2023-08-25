@@ -42,7 +42,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/ecommerce-sales-data-processing.git
+   git clone https://github.com/mradal/Build_Data_Model_using_Postgres_and_python.git%5EC
 
 
 
